@@ -6,9 +6,15 @@ It is a full stack Airbnb type website using MERN stack.
 
 1 : This a full responsive, full stack web application.
 
-2 : In this website a person can create account then rent the house, appartment or hotel by           upload basic information, like photo, price, location etc.
+2 : In this website a person can create account then rent the house, apartment or hotel by upload basic information, like photo, price, location etc.
 
-3: Those who are intrested to visit, they can explore the home for rent and as their choice and they can easity get.
+3: Those who are interested to visit, they can explore the home for rent and as their choice and they can easily get.
+
+[[[ Name of the project ]]]
+
+[[ HouseHarbor ]]
+
+The name HouseHarbor means : The name "HouseHarbor" is a combination of two words: "House" and "Harbor." In this context, it's intended to convey the idea of a secure and welcoming place to stay, much like a harbor provides a safe and sheltered place. The combination suggests a comforting and secure environment for individuals looking for a home, apartment, or hotel to rent. It conveys a sense of refuge and a place where people can find comfort and peace during their stay.
 
 [[[ Technology used ]]]
 
@@ -50,3 +56,5 @@ It is a full stack Airbnb type website using MERN stack.
 4 : npm i mongoose ( mongoose( mongoDB ) )
 
 5 : Create a folder ( app.js )
+
+(In app.js file I write code of : require express,ejs,mongoose), define post number, test the server working or not, connect mongo db, 
