@@ -38,3 +38,15 @@ It is a full stack Airbnb type website using MERN stack.
 1 : Database setup
 
 2 : REST APIs for CRUD (Create, Read, Update, Delete)
+
+[ Basic setup ]
+
+1 : npm init -y ( package. json )
+
+2 : npm i express ( Install express )
+
+3 :  npm i ejs ( ejs files )
+
+4 : npm i mongoose ( mongoose( mongoDB ) )
+
+5 : Create a folder ( app.js )
