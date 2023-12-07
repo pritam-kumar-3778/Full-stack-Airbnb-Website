@@ -58,3 +58,19 @@ The name HouseHarbor means : The name "HouseHarbor" is a combination of two word
 5 : Create a folder ( app.js )
 
 (In app.js file I write code of : require express,ejs,mongoose), define post number, test the server working or not, connect mongo db, 
+
+[ Model : Listing ]
+
+> title (String)
+
+> description (String)
+
+> image (URL / Link) (String)
+
+> price (Number)
+
+> location (String)
+
+>country (String)
+
+-- Create a folder called "models" and inside that I create all the models --
